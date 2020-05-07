@@ -911,10 +911,10 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "As you have progressed through life, you have learned the joy of simplicity...
     or so you thought.\nTo reach retirement you must earn $10,000,000!\nPick up your
-    Rod (Mouse) and fish your heart out! Sell your fish in the Shop, and buy upgrades
-    to make your job easier! \nThough, beware... simplicity is often lost in the
-    pursuit of greather wealth!\nAnd, look out for the treasured Gracefish, it's
-    Extremely Rare!"
+    Rod (Mouse) and fish (Click center of the lake) your heart out! Sell your fish
+    in the Shop, and buy upgrades to make your job easier! \nThough, beware... simplicity
+    is often lost in the pursuit of greather wealth!\nAnd, look out for the treasured
+    Gracefish, it's Extremely Rare!"
 --- !u!222 &2122003164
 CanvasRenderer:
   m_ObjectHideFlags: 0
